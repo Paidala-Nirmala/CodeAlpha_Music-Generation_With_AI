@@ -186,4 +186,5 @@ python ai_music.py
 
 ## 🎉 **Project Completed**
 
-Your Music AI tool is now ready with full audio synthesis, AI melody generation, and GUI playback.
+ Music AI tool is now ready with full audio synthesis, AI melody generation, and GUI playback.
+
